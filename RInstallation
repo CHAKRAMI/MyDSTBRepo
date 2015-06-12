@@ -1,0 +1,4 @@
+sudo apt-get install r-base-core
+sudo R 
+update.packages() 
+install.packages('ggplot2', dependencies=TRUE) 
